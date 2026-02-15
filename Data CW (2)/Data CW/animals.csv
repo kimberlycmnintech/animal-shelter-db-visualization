@@ -1,0 +1,17 @@
+animal_id,animal_name,species,breed,gender,age,arrival_date,status,residence_id
+101,Buddy,Dog,Golden Retriever,Male,3,2023-01-01,Adopted,201
+102,Mittens,Cat,Siamese,Female,2,2023-01-03,Adopted,203
+103,Rocky,Parrot,African Grey,Male,4,2023-01-07,Adopted,205
+104,Luna,Rabbit,Holland Lop,Female,1,2023-01-05,Available,206
+105,Charlie,Guinea Pig,American,Male,2,2023-01-11,Adopted,207
+106,Bella,Dog,Labrador,Female,5,2023-01-09,Adopted,201
+107,Simba,Lizard,Bearded Dragon,Male,3,2023-01-17,Adopted,208
+108,Daisy,Hamster,Syrian,Female,2,2023-01-13,Medical Hold,209
+109,Max,Dog,German Shepherd,Male,3,2023-01-15,Adopted,201
+110,Whiskers,Cat,Persian,Female,2,2023-01-22,Available,203
+111,Polly,Parrot,Macaw,Female,4,2023-01-18,Available,205
+112,Oscar,Bird,Cockatiel,Male,5,2023-01-26,Available,205
+113,Peanut,Guinea Pig,Abyssinian,Male,2,2023-01-20,Adopted,207
+114,Cooper,Dog,Beagle,Male,2,2023-01-24,Available,202
+115,Cleo,Cat,Maine Coon,Female,3,2023-01-29,Available,204
+

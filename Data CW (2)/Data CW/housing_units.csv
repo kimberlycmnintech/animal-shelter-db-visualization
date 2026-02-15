@@ -1,0 +1,11 @@
+residence_id,residence_name,capacity,current_occupancy,availability,cleaning_status
+201,Kennel A,3,3,N,Clean
+202,Kennel B,3,1,Y,Clean
+203,Cat Room 1,3,2,Y,Needs Cleaning
+204,Cat Room 2,3,1,Y,Needs Cleaning
+205,Aviary,6,3,Y,In Cleaning
+206,Rabbit Hutch,5,1,Y,Clean
+207,Small Pets,15,2,Y,Clean
+208,Reptile Room,5,1,Y,In Cleaning
+209,Rodent Area,12,1,Y,In Cleaning
+

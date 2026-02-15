@@ -1,0 +1,22 @@
+check_id,animal_id,check_date,vet_name,diagnosis,treatment,health_rating
+1301,101,2023-01-05,Dr. Smith,Healthy,None,5
+1302,102,2023-01-06,Dr. Johnson,Healthy,None,5
+1303,103,2023-01-07,Dr. Williams,Feather Plucking,Behavioral therapy,4
+1304,104,2023-01-08,Dr. Brown,Healthy,None,5
+1305,105,2023-01-09,Dr. Davis,Overgrown Teeth,Teeth trimming,3
+1306,106,2023-01-10,Dr. Miller,Healthy,None,5
+1307,107,2023-01-11,Dr. Wilson,Mild Dehydration,Increased misting,4
+1308,108,2023-01-12,Dr. Moore,Wet Tail,Antibiotics,2
+1309,109,2023-01-13,Dr. Clark,Healthy,None,5
+1310,110,2023-01-14,Dr. Allen,Minor cold,Rest,4
+1311,111,2023-01-15,Dr. Adams,Healthy,None,5
+1312,112,2023-01-16,Dr. Lee,Healthy,None,5
+1313,113,2023-01-17,Dr. Harris,Mild Ear Infection,Ear drops,4
+1314,114,2023-01-18,Dr. Young,Healthy,None,5
+1315,115,2023-01-19,Dr. Wright,Overweight,Diet plan,3
+1316,101,2023-01-20,Dr. Smith,Checkup after adoption,None,5
+1317,103,2023-01-15,Dr. Williams,Improved behavior,Continued therapy,4
+1318,106,2023-01-22,Dr. Miller,Tartar buildup,Dental cleaning,4
+1319,107,2023-01-25,Dr. Wilson,Recovered from dehydration,Monitor regularly,5
+1320,115,2023-02-02,Dr. Moore,Slight weight gain,Continue diet,4
+
